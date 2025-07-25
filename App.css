@@ -1,0 +1,69 @@
+*{
+ background: -webkit-linear-gradient(bottom, rgb(197, 22, 174), rgb(27, 25, 25));
+  background: linear-gradient(to top, rgb(255, 255, 255), rgb(119, 177, 201));
+}
+.Div1{
+   color: rgb(3, 7, 59);
+   margin-top: 250px;
+   font-size: 10px;
+   font-style: italic;
+   animation-range: 20px;
+   text-align: start
+}
+.VK1{
+  margin-left:250px; 
+  margin-top: 50px;
+  font-size: 60px;
+
+}
+.VK2{
+  display: flex;
+  justify-content: space-between;
+  margin-top: -350px;
+  margin-left: 200px;
+  margin-right: 200px;
+  
+}
+.b1{
+  color:rgb(8, 8, 8);
+  background-color: rgb(128, 128, 128);
+  font-size: 26px;
+  border-radius: 20px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.about{ 
+  font-size:30px;
+  font-family: 'Times New Roman', Times, serif;
+  background: -webkit-linear-gradient(bottom, rgb(197, 22, 174), rgb(27, 25, 25));
+  background: linear-gradient(to top, rgb(145, 128, 128), rgb(255, 255, 255));
+  margin-top: 100px;
+}
+ 
+
+.home{
+  font-size: 40px;
+  font-family: 'Times New Roman', Times, serif; 
+  background-color: blanchedalmond;
+  margin-top: 100px;
+}
+.contact{
+  font-size: 40px;
+  font-family: 'Times New Roman', Times, serif; 
+  background-color: blanchedalmond;
+  margin-top: 80px;
+}
+.skills{
+   font-size: 20
+   
+   
+   px;
+  font-family: 'Times New Roman', Times, serif; 
+  background-color: blanchedalmond;
+  margin-top: 80px;
+}
+
+  
